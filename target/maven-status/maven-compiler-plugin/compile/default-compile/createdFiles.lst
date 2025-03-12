@@ -1,0 +1,6 @@
+com/btcbit/test/pages/BasePage.class
+com/btcbit/test/pages/HomePage.class
+com/btcbit/test/pages/LoginPage.class
+com/btcbit/test/pages/SignupPage.class
+com/btcbit/test/pages/ContactsPage.class
+com/btcbit/test/pages/ProfilePage.class
